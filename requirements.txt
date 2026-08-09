@@ -1,0 +1,8 @@
+discord.py
+yfinance
+pandas
+ta
+mplfinance
+pytz
+tradingview-ta
+flask
